@@ -9,7 +9,7 @@ DOMAIN: FULL STACK WEB DEVELOPMENT
 
 DURATION: 4 WEEKS
 
-MENTOR: Mr. Muzammil Shaik
+MENTOR: NEELA SANTOSH
 
 OUTPUT:<img width="1532" height="811" alt="API-INTEGRATION" src="https://github.com/user-attachments/assets/069d4e6f-62ad-4797-9998-b3713be06667" />
 The given task focuses on developing a responsive and interactive webpage that can fetch, process, and display data dynamically from a public API such as a weather or news service. This project aims to demonstrate the integration of front-end web technologies—namely HTML, CSS, and JavaScript—with publicly available APIs to build an application that provides real-time information to users. The primary goal is to bridge the gap between static webpage design and dynamic data-driven web development by allowing users to retrieve live information from an external data source and display it meaningfully in the browser.
